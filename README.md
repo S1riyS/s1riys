@@ -1,6 +1,6 @@
 [![Header](assets/header.png)](https://github.com/S1riyS)
 
-## 👋 Hello, I am beginner Python developer!
+## 👋 Hello, I am Python developer!
 
 ### 🧰 Languages and Tools:
 
@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=379ad6)
 
-### 🌎 My Social Media:
+### 🌎 Social Media:
 
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/s1riys)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC8K6TZc2ik2Dm3jZsB26DKQ)
