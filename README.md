@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/-Pyhton-090909?style=for-the-badge&logo=Python&logoColor=5d78d9)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=379ad6)
