@@ -1,6 +1,6 @@
 [![Header](assets/header.png)](https://github.com/S1riyS)
 
-## 👋 Hello, I am beginner **Python** *(and Web)* programmer!
+## 👋 Hello, I am beginner Python developer!
 
 ### 🧰 Languages and Tools:
 
@@ -20,4 +20,4 @@
 
 
 ### 📈 Statistic:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=compact&theme=github_dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
