@@ -1,6 +1,10 @@
 [![Header](assets/header.png)](https://github.com/S1riyS)
 
-## 👋 Hello, I am Python developer!
+## 👋 Hello there!
+
+### ✨ About me:
+
+Hi, I'm a self-taught **Python** developer from Russia.
 
 ### 🧰 Languages and Tools:
 
@@ -18,6 +22,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord)](https://discordapp.com/users/380736129361772548/)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/S1riyS/)
 
-
 ### 📈 Statistic:
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=S1riyS.github.io)](https://github.com/anuraghazra/github-readme-stats)
