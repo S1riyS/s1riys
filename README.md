@@ -24,5 +24,5 @@ Hi, I'm a self-taught **Python** developer from Russia.
 
 ### 📈 Statistic:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=S1riyS.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=donut&theme=dark&hide_border=true&exclude_repo=S1riyS.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/S1riyS?border=0&radius=6)
