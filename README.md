@@ -4,7 +4,7 @@
 
 ### ✨ About me:
 
-* **ITMO** SE'27 student
+* **ITMO University**, Software Engineering | 2027
 * **Go/Python** backend enjoyer
 * Almost **Yandex** intern *(god bless my soul)*
 
