@@ -3,9 +3,9 @@
 ## 👋 Hello there!
 
 ### ✨ About me:
-
+* **Go/Python** backend enjoyer, DevOps 
 * **ITMO University**, Software Engineering | 2027
-* **Go/Python** backend enjoyer
+* [**Wildberries Techschool** "Golang"](https://github.com/S1riyS/wildberries-techschool) | 2025
 * Almost **Yandex** intern *(god bless my soul)*
 
 ### 🧰 Languages and Tools:
@@ -35,6 +35,4 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/s1riys)
 
 ### 📈 Statistic:
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S1riyS&layout=donut&theme=dark&hide_border=true&exclude_repo=S1riyS.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/S1riyS?border=0&radius=6)](https://leetcode.com/S1riyS/)
